@@ -1,0 +1,31 @@
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/c7f4542f-c1c5-4cfa-ac04-521d4e7ef1a5/c-detect-multiple-keypress?forum=csharpgeneral
+
+getting multiple keys to work at once during the game.
+
+
+https://stackoverflow.com/questions/55010535/c-sharp-finding-angle-between-2-given-points
+figuring out radians for movement / bullets.
+also movement of the tanks
+
+https://stackoverflow.com/questions/2163829/how-do-i-rotate-a-picture-in-winforms
+
+-again help with the image
+
+
+
+https://math.stackexchange.com/questions/475917/how-to-find-position-of-a-point-based-on-known-angle-radius-and-center-of-rotat
+
+-figuring out the trajectory for the bullet
+
+
+
+
+http://www.migapro.com/depth-first-search/
+- creating a recursive method for the maze generation
+
+https://opengameart.org/content/top-down-painted-tanks
+free-licensed tank images for the players.
+i made the colours by cropping the tanks and then just playing with saturation values in gimp.
+
+
+
